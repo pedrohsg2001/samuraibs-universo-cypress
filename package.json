@@ -1,0 +1,14 @@
+{
+  "name": "Samureibs-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação de ponta a ponta em cypress",
+  "main": "index.js",
+  "author": "Pedro QA",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "10.11.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
